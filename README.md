@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Taehoon Lee! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Ethan Lee! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Aspiring Creative Software Developer and CS Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a junior at Emory University 📍 pursuing a dual degree in **Computer Science** and **Psychology**, with a 4.0 GPA. I thrive at the intersection of logic and creativity, building intuitive and impactful digital experiences. Currently, I am:
+I'm a junior at Emory University 📍 pursuing a dual degree in **Computer Science** and **Psychology**. I thrive at the intersection of logic and creativity, building intuitive and impactful digital experiences. Currently, I am:
 
 - 🌟 Designing interactive learning tools with AI-powered 3D platforms.
 - 🧠 Exploring how we engage with data in music streaming through research.
