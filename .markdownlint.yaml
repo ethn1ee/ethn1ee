@@ -1,1 +1,2 @@
 MD033: false  # Disables the "no inline HTML" rule
+MD041: false  # Disables the "first line in file should be a top level heading" rule

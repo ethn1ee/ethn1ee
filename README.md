@@ -1,3 +1,7 @@
+<p align=center>
+  <img src="https://www.taehoonlee.dev/logo.png" alt="logo" style="width:64px" />
+</p>
+
 <h1 align=center>TAEHOON (ETHAN) LEE</h1>
 
 <p align=center>
@@ -16,5 +20,4 @@
 <!-- <p align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethn1ee&theme=dark" alt="summary" />
 </p> -->
-
 
