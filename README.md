@@ -5,7 +5,7 @@
 <h1 align=center>TAEHOON (ETHAN) LEE</h1>
 
 <p align=center>
-  I'm a passionate student developer studying computer science and psychology.
+  why is internet so hard
 </p>
 
 <p align=center>
