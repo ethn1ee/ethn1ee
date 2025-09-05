@@ -17,6 +17,8 @@
   </a>
 </p>
 
+![wontory/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?slugs=kubernetes,nextdotjs,typescript,go,docker,javascript,python,html5,gnubash,linux,helm,nginx,react)
+
 <!-- <p align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethn1ee&theme=dark" alt="summary" />
 </p> -->
