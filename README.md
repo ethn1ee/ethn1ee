@@ -1,25 +1,19 @@
-<p align=center>
-  <img src="https://www.taehoonlee.dev/logo.png" alt="logo" style="width:64px" />
-</p>
-
 <h1 align=center>TAEHOON (ETHAN) LEE</h1>
 
 <p align=center>
-  why is internet so hard
+  caught in the web
 </p>
 
 <p align=center>
   <a href="https://taehoonlee.dev/">
-    <img src="https://img.shields.io/badge/portfolio-060606?style=for-the-badge" alt="portfolio" />
+    portfolio
   </a>
+  <span> | <span>
+  <a href="https://taehoonlee.cloud/">
+    homelab
+  </a>
+  <span> | <span>
   <a href="https://www.linkedin.com/in/ethantlee/">
-    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge" alt="linkedin">
+    linkedin
   </a>
 </p>
-
-![tech-stack](https://tech-stack.wontory.dev/api/orbit?slugs=react,nextdotjs,javascript,typescript,python,html5,gnubash,linux,helm,nginx,kubernetes,go,docker)
-
-<!-- <p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethn1ee&theme=dark" alt="summary" />
-</p> -->
-
